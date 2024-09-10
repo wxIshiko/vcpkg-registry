@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO wxIshiko/wxCharts
     REF 0.1.0
-    SHA512 4c52e4ad6d3c4ba496aad7e654ee75ddd9009aadc44be37fc64f3e3ac56001a7e9728f7fdd0c78f8261bff0bf8a6748f8a7649cb160ca37c2d686530c161c2f6
+    SHA512 5d0bde636afbe2ef1817c47a2c4bf63ac32ff9ad0ecca8cf006e084db910630510da24349a6a6808cb6a2f0c4791859ec2adee3df7b894b4ea96962beb7f9e84
 )
 
 vcpkg_cmake_configure(
