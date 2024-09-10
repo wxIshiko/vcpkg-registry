@@ -1,7 +1,7 @@
 {
   "default": {
     "wxcharts": {
-      "baseline": "2022-07-05",
+      "baseline": "0.1.0",
       "port-version": 0
     }
   }
